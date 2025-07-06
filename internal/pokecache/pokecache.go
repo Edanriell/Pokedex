@@ -62,4 +62,3 @@ func (c *Cache) reap(now time.Time, last time.Duration) {
 		}
 	}
 }
-

@@ -31,4 +31,3 @@ func commandCatch(cfg *config, args ...string) error {
 	cfg.caughtPokemon[pokemon.Name] = pokemon
 	return nil
 }
-

@@ -45,4 +45,3 @@ func (c *Client) GetLocation(locationName string) (Location, error) {
 
 	return locationResp, nil
 }
-

@@ -45,4 +45,3 @@ func (c *Client) GetPokemon(pokemonName string) (Pokemon, error) {
 
 	return pokemonResp, nil
 }
-
